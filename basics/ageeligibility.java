@@ -1,3 +1,4 @@
+package basics;
 iimport java.util.Scanner;
 
 class Age {
